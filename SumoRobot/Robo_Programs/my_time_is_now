@@ -1,0 +1,18 @@
+/   Piano Player II   /   Piano Player II   /    rest
+wait 2,33
+playt 784,26
+wait 2,33
+playt 698,17
+wait 2,17
+playt 622,26
+wait 2,33
+playt 1047,106
+wait 2,133
+playt 392,26
+wait 2,33
+playt 349,17
+wait 2,17
+playt 311,26
+wait 2,33
+playt 523,106
+wait 2,133

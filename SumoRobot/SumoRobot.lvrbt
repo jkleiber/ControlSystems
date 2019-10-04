@@ -6,6 +6,9 @@
 	<Property Name="NI.Lib.LocalName" Type="Str">Blank Robot</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
+	<Item Name="Robo_Others" Type="Folder">
+		<Item Name="John-Cena.rso" Type="Document" URL="../Robo_Others/John-Cena.rso"/>
+	</Item>
 	<Item Name="Robo_Programs" Type="Folder">
 		<Item Name="SumoBot.vi" Type="VI" URL="../Robo_Programs/SumoBot.vi"/>
 	</Item>
