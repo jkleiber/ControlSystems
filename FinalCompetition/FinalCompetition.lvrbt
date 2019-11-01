@@ -6,14 +6,6 @@
 	<Property Name="NI.Lib.LocalName" Type="Str">Blank Robot</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
-	<Item Name="Robo_Others" Type="Folder">
-		<Item Name="John-Cena.rso" Type="Document" URL="../Robo_Others/John-Cena.rso"/>
-	</Item>
-	<Item Name="Robo_Programs" Type="Folder">
-		<Item Name="FightBot.vi" Type="VI" URL="../Robo_Programs/FightBot.vi"/>
-		<Item Name="SumoBot.vi" Type="VI" URL="../Robo_Programs/SumoBot.vi"/>
-	</Item>
-	<Item Name="CliffLogic.vi" Type="VI" URL="../Robo_Programs/CliffLogic.vi"/>
 	<Item Name="IntLibraryData" Type="LibraryData">
 		<Property Name="NI.LibData.ItemData" Type="Bin">&amp;A#!!!!!!!%!"!"4!!%!!"9!A!!!!!!#!!V!!Q!(4H6N:8*J9Q!/1&amp;!!!1!!"%2B&gt;'%!!!%!!1!!!!!!!!!!!!!!!!</Property>
 		<Property Name="NI.LibData.Version" Type="Str">1.0.0.0</Property>
